@@ -14,7 +14,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 marker i Git - merk av på stage og trykk Commit
 
-skriptet skal nå lagret i sin versjon. Hver endring man gjør - så gjør man samme prosedyre og da vil de endringene man har gjort lagres som eget steg (til versjonskontroll) 
+skriptet skal nå lagret i sin versjon. Hver endring man gjør - så gjør man samme prosedyre og da vil de endringene man har gjort lagres som eget steg (til versjonskontroll). Ctrl+S så dukker den opp i vinduet til 
+
+for p koble til github: 
+
+test test
+
 
 ```{r test}
 
