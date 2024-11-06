@@ -26,7 +26,12 @@ test test test
 
 enda en test
 
+
+
 ```{r test}
+  
+kode kode kode
+
 
 ```
 
