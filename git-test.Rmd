@@ -4,6 +4,8 @@ output: html_document
 date: "2024-11-06"
 ---
 
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -18,7 +20,7 @@ skriptet skal nå lagret i sin versjon. Hver endring man gjør - så gjør man s
 
 for p koble til github: 
 
-test test
+test test test
 
 
 ```{r test}
