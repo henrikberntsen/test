@@ -10,6 +10,8 @@ date: "2024-11-06"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+
 ## R Markdown inn i git-repository
 
 ## endring 
@@ -22,6 +24,7 @@ for p koble til github:
 
 test test test
 
+enda en test
 
 ```{r test}
 
