@@ -10,8 +10,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown inn i git-repository
 
+## endring 
 
+marker i Git - merk av på stage og trykk Commit
 
+skriptet skal nå lagret i sin versjon. Hver endring man gjør - så gjør man samme prosedyre og da vil de endringene man har gjort lagres som eget steg (til versjonskontroll) 
+
+```{r test}
+
+```
 
 
 
